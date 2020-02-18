@@ -25,4 +25,4 @@ in Web browser
 If you use Docker for Windows, You have to use the VM’s IP address instead of the localhost.
 
 #### 5. Dockerfile
-The Dockerfile contains comments that comprises the image.
+The Dockerfile contains comments that comprise the image.
